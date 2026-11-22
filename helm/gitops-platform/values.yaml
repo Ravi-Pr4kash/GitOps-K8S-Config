@@ -4,7 +4,7 @@ nodeApp:
 
   image:
     repository: raviiprakashh/gitops-node-app
-    tag: jenkins-2
+    tag: jenkins-5
     pullPolicy: IfNotPresent
 
   service:
